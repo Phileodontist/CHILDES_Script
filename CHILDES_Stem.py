@@ -9,6 +9,14 @@ file_folder = []
 
 # Main()
 
+print("Input Convention:------------------------------------------------------"
+      "\n\t*Directory path: Type in the directory name where the files reside "
+      "\n\t*File name: Type in the desired filename"
+      "\n\t*Verb: Type in the desired verb under analysis"
+      "\n\t*Speaker: Type in a speaker from the list: CHI, STU, etc"
+      "\n----------------------------------------------------------------------"
+      "-")
+
 # Retrieves the directory pathway
 directory = input("Enter directory path: ")
 directory_path = nltk.data.find('corpora/CHILDES/' + directory)
