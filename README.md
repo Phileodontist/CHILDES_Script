@@ -12,3 +12,5 @@ Through UCSD's Language Comprehension Lab, run by Professor Eva Wittenberg, the 
 [**Light Verbs**](https://en.wikipedia.org/wiki/Light_verb): In Linguistics, light verbs are verbs that hold little semantic meaning. They typically form predicates that depict an event. `Ex. He gave a hug.`
 
 [**Heavy Verbs**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867984/): Heavy verbs are verbs that have objects follow after them, having stronger associations with specific predicates. `Ex. He kicked a ball.`
+
+**Note:** A short follow-up analysis was done [here](https://github.com/Phileodontist/Data_Analysis_Notebooks/blob/master/CHILDES_Corpus_Analysis.ipynb)
